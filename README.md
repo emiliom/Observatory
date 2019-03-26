@@ -10,6 +10,9 @@ An observatory is a location used for observing terrestrial or celestial events 
 
 This repository is intended for the sharing and distribution of open-source Python based code useful for model and data integration that improves access to large datasets, reduces computational burden, reinvent the wheel less often, and share and communicate more about how to synthesize earth surface observations in useful ways.
 
+Gridded datasets already integrated into OGH are listed together with their metadata in the OGH module [ogh_meta.py](https://github.com/Freshwater-Initiative/Observatory/blob/master/ogh/ogh_meta.py). A more readable but static snapshot of this list is available as a pdf table from the OGH publication, [supp_table2.pdf](https://github.com/Freshwater-Initiative/Observatory/blob/master/supp_table2.pdf); this snapshot is not guaranteed to be up-to-date.
+
+
 ## Installing Version on conda-forge
 Install package with conda:
 
